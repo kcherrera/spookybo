@@ -1,0 +1,20 @@
+.cat {
+  width: 10%;
+  height: 10%;
+  border-radius: 50%;
+}
+
+body {
+  text-align: center;
+  list-style-position: inside;
+  font-family: 'Viga', sans-serif;
+  background-color: #C3ACCE;
+  color: #FFFFFF;
+}
+
+h1, h3 {
+  color: #A755C2;
+}
+
+
+
